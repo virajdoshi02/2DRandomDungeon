@@ -32,9 +32,3 @@ Everything was done by me.
 * MSTDungeon class:
 
   * I had to create an MST Dungeon class using Godot's AStar 2D class in order to properly create this dungeon, which took some time to figure out as well
-
-<br>
-
-**Assets:**
-
-* I downloaded a basic tilemap for the rooms
