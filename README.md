@@ -1,5 +1,5 @@
 <h1 align="center">Random Dungeon Generator</h1>
-<h3 align="center">An MST dungeon generator in Godot,</h3>
+<h3 align="center">An MST dungeon generator in Godot</h3>
 
 (add image here)
 
